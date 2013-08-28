@@ -1,0 +1,149 @@
+<?php /* Smarty version Smarty-3.1.14, created on 2013-08-06 19:11:43
+         compiled from ".\templates\display\ongoing-projects.tpl.html" */ ?>
+<?php /*%%SmartyHeaderCode:2222651f8c1ed1cbf96-83179032%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '231db527db52e14d9cf54f52227c1c28c7598d77' => 
+    array (
+      0 => '.\\templates\\display\\ongoing-projects.tpl.html',
+      1 => 1375794539,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '2222651f8c1ed1cbf96-83179032',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_51f8c1ed1fce91_24390063',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_51f8c1ed1fce91_24390063')) {function content_51f8c1ed1fce91_24390063($_smarty_tpl) {?><div id="content" class="content-box-m">
+
+  <h3>ONGOING  PROJECTS </h3>
+	  <h4>MIND  Study: Mulago Inpatient Non-invasive Diagnosis of Pneumonia</h4>
+	  <p><i>Study  period:</i> September  2006 – ongoing. <i>Brief description:</i> To  study non-invasively collected respiratory specimens such as oropharyngeal  washing (OPW or gargle) paired with sensitive and specific molecular assays  such as polymerase chain reaction (PCR) for the diagnosis of major  HIV-associated opportunistic pneumonias such as tuberculosis (TB) and  Pneumocystis pneumonia (PCP). The study demonstrated that PCR of sputum samples  was highly sensitive (99%) and specific (88%) for detection of pulmonary TB and  the assay performed well among HIV-infected patients and among patients with  negative sputum smear results. PCR of OPW specimens was less sensitive (73%)  but also detected a substantial proportion of tuberculosis cases. <i>Collaborators: </i>MU-UCSF Research  Collaboration. <i>Sponsored by:</i> National  Institute of Health (NIH)</p>
+      	<div class="side-menu" >
+        	<h3>On-going Projects</h3>
+            <ul style=" float: right">
+            	<li><a>» MIND  Study: Mulago Inpatient Non-invasive Diagnosis of Pneumonia</a></li>
+                <li><a>» A  longitudinal cohort study of HIV-infected persons hospitalized with pneumonia  in two settings: Mulago Hospital, Kampala and San Francisco General Hospital,  San Francisco</a></li>
+                <li><a>» PROMOTE:  Prevention of Malaria and HIV Disease in Tororo, Uganda </a></li>
+                <li><a>» PROMOTE - Pediatrics</a></li>
+                <li><a>» PROMOTE - PIs (Pregnant women and  Infants)</a></li>
+                <li><a>» PROMOTE – Chemoprevention</a></li>
+                <li><a>» PROMOTE  – Drug Resistance</a></li>
+                <li><a>» SEARCH:  Sustainable East Africa Research in Community Health </a></li>
+                <li><a>» SEARCH  Randomized Trial</a></li>
+                <li><a>» EARLI: Early  Antiretroviral Therapy in Resource Limited Settings in Patients with High CD4+  Cell Counts</a></li>
+                <li><a>» SEARCH  Community Campaign, Linkage and Household Survey Protocol</a></li>
+                <li><a>» ICEMR/PRISM</a></li>
+                <li><a>» Supporting the Implementation of  Malaria Prevention and Control Strategies Relevant Ancillary Activities in the  Republic of Uganda</a></li>
+                <li><a>» Pharmacokinetic  Interactions between Antiretroviral Agents, Lopinavir/Ritonavir and Efavirenz  and Antimalarial Drug Combinations, Artesunate/ Amodiaquine and  Artemether/Lumefantrine</a></li>
+                <li><a>» HIV VCT and Linkage to Care in Uganda</a></li>
+                <li><a>» ACT  PRIME: Comparing the impact of enhanced health facility-based care on malaria  and febrile illnesses in children in Tororo, Uganda</a></li>
+                <li><a>» ACT  PROCESS</a></li>
+                <li><a>» START-ART:  Streamlined ART Initiation Strategy</a></li>
+                <li><a>» Malaria  Control Policy Assessment - Uganda</a></li>
+                <li><a>» Tuberculosis Acquisition in Early Childhood in Uganda: Influence of HIV  exposure and malnutrition</a></li>
+                <li><a>» TRAP-TB:  The Transmission and Pathogenesis of TB - Molecular Epidemiology and Geospatial  Analysis of TB Transmission in Tororo Uganda</a></li>
+                <li><a>» TET:  Therapeutic Efficacy Trial- Efficacy of artemether-lumefantrine and amodiaquine  + artesunate for treatment of uncomplicated malaria in children in Uganda </a></li>
+                <li><a>» UTBSP:  Uganda Tuberculosis Surveillance Project </a></li>
+                <li><a>» RO1  Immunology: Impact of Chemoprevention on Humoral Antimalarial Immunity </a></li>
+                <li><a>» The PQ Study</a></li>
+                <li><a>» Acceptability  and feasibility of serial HIV testing during pregnancy and the postpartum  period with male partner testing in Tororo, Uganda</a></li>
+            </ul>
+        </div>
+      <h4>A  longitudinal cohort study of HIV-infected persons hospitalized with pneumonia  in two settings: Mulago Hospital, Kampala and San Francisco General Hospital,  San Francisco</h4>
+       <p><i>Study  period:</i> October 2008  – ongoing. <i>Brief description:</i> Part of  the Lung HIV Study, a network of 8 research programs and a central data  coordinating center whose shared goal is to study the spectrum of  HIV-associated lung disease and create a specimen bank and accompanying  clinical database to catalyze future studies in the field. The MIND-IHOP study  evaluates the diagnosis and epidemiology of HIV-associated pulmonary infections  and the human responses to those infections. <i>Collaborators:</i> MU-UCSF Research Collaboration. <i>Sponsored by:</i> National Heart Lung and Blood Institute (NHLBI)</p>
+     
+      <h4>PROMOTE:  Prevention of Malaria and HIV Disease in Tororo, Uganda </h4>
+      <p> <i>Study  period:</i> <i>October 2009 – ongoing. Brief description: </i>The  PROMOTE program establishes new approaches to reduce HIV and malaria burdens in  sub-Saharan Africa, and enhances the public health approach to both diseases.  Three of the projects are interlinked hypothesis-based intervention cohort  trials. The other 2 projects are linked to all of the clinical trials and  utilize data and specimens from each of these trials to characterize nutrition  and drug resistance. The program is being conducted in Tororo District, Uganda,  a rural area with HIV seroprevalence of 8% and malaria transmission intensity  of 562 infective bites per person year<br>
+        <i>Collaborators: </i> MU-UCSF Research Collaboration.  <i>Sponsored  by:</i> The Eunice Kennedy Shriver National Institute of Child Health and Human  Development (NICHD/NIH) </p>
+     
+      <h4>PROMOTE - Pediatrics</h4>
+      <p>A randomized open label trial of HIV  protease inhibitors for the prevention of malaria in HIV-infected children</b> <i>Study  period:</i> October 2009 to January 2013. <i>Brief  description:</i> The aim of this study was to determine if the use of PI-based  (LPV/r) ART versus NNRTI-based ART among HIV-infected children will reduce the  incidence density of malaria in children. This study demonstrated that HIV  infected children treated with LPV/r-based ART regimen had a significantly  lower risk of malaria compared to those treated with an NNRTI-based regimen.</p>
+      
+      <h4>PROMOTE - PIs (Pregnant women and  Infants): Protease inhibitors to reduce malaria  morbidity in HIV-infected pregnant women</h4>
+      <p> <i>Study period: </i>October 2009 to July 2013. <i>Brief description:</i> The aim of this study  is to determine if the use of PI-based ART versus non-PI ART among HIV-infected  pregnant women leads to reduced rates of placental malaria as measured by  Giemsa-stained smear or polymerase chain reaction (PCR) of placental blood.</p>
+        
+        <h4>PROMOTE – Chemoprevention: A  randomized trial of monthly dihydroartemisinin-piperaquine versus monthly  sulfadoxine-pyrimethamine versus daily trimethoprim-sulfamethoxazole versus no  therapy for the prevention of malaria</h4>
+  <p><i>Study period:</i> October 2012 to July 2014. <i>Brief description:</i> The aim of this study  to compare the incidence of malaria among infants enrolled at 4-5 months of age  and randomized to one of the four arms until they reach the age of 24 months.  This study demonstrated that the incidence of malaria was extremely high in the  no chemo-prevention arm despite the use of ITNs and increased with age. In  addition, monthly SP was not effective for the prevention of malaria. In this  study population, daily TS was associated with a modest protection against  malaria, and monthly DP was associated with good protection against malaria.</p>
+      
+      <h4>PROMOTE  – Drug Resistance: This program includes Pediatrics, PIs and  Chemoprevention</h4>
+      <p>  <i>Study  period:</i> October 2012  to July 2013 <i>Brief description:</i> The  aim of this study is to test whether long-term use of chemopreventive  antimalarial therapies in children or of antiretroviral protease inhibitors in  children or pregnant women will decrease the incidence of malaria and related  malarial morbidity. </p>
+        
+        <h4>PROMOTE - Nutrition</h4>
+        <p>Study  period: October 2009 to July 2013. <i>Brief description:</i> This project evaluates the nutritional status of PROMOTE program participants,  identifying factors which increase the risk of nutritional deficiency and  subsequent poor clinical outcomes, correlating levels of malnutrition and ART  pharmacokinetic exposure and response, and pilots a nutritional supplementation  strategy tailored to routine practice in resource limited settings.</p>
+      
+      <h4>SEARCH:  Sustainable East Africa Research in Community Health </h4>
+      <p>  <i>Study  period</i>: April 2013,  Uganda - September 2013, Kenya to 2018. <i>Brief  description:</i> Sustainable East Africa Research in Community Health (SEARCH)  Collaboration was established in Vienna in 2010 to evaluate health and economic  outcomes of bold community based health interventions for communicable and  non-communicable diseases (NCD). The first initiative of the SEARCH  collaboration is a community cluster randomized trial in Uganda and Kenya of  widespread early community wide antiretroviral therapy (ART) vs. standard of  care, where primary endpoints will include both community health and community  economic status. An important strength of the SEARCH Collaboration is the  partnership it has built with NIH, PEPFAR, WHO, and the World Bank to draw  intellectual, financial, and policy support. From the inception the SEARCH  collaboration has worked with Uganda and Kenya government agencies, community  leaders, the US partner implementing agencies through Advisory Boards. Study  implementation will coordinate with and compliment ongoing country activities. <i>Collaborators:</i> MU-UCSF Research  Collaboration, Infectious Diseases Research Collaboration (IDRC) and Kenya  Medical Research Institute, (KEMRI).  <i>Sponsored by:</i> The World Bank, NIAID,  PEPFAR, WHO, MOH of Kenya, Uganda; Gilead Sciences, Inc.</p>
+      
+      <h4>SEARCH  Randomized Trial  </h4>
+       <p> <i>Study  period: </i>April 2013,  Uganda &amp; September 2013, Kenya to 2018<i>.  Brief description</i>: The SEARCH study is designed to inform the current  debates on global health investments precipitated by a) mathematical models  predicting the HIV epidemic can be halted with widespread ART; and b) the  reality of diminishing resources and growing costs of existing programs. The  study is designed to leverage investments in HIV to develop sustainable systems  for other infectious and NCDs. By examining individual, household, and community  level socio-economic outcomes, the SEARCH study will assess whether an  integrated approach to addressing health problems serve as an economic  development intervention as well. Unique elements of the study a) inclusion of  diagnosis and linkage to care of multiple communicable (TB, malaria) and non-  communicable disease (hypertension, diabetes) in study design; b) improving and  building community health delivery for ART and other diseases using new and  efficient care models; c) evaluations that measure the immediate, cumulative  and downstream effects of the intervention in the health, education and  economic sectors; and d) a focus on sustainability. <i>Collaborators:</i> MU-UCSF Research Collaboration, Infectious Diseases  Research Collaboration (IDRC) and Kenya Medical Research Institute, (KEMRI). <i>Sponsored by:</i>  The World Bank, NIAID, PEPFAR, WHO, MOH of  Kenya, Uganda; Gilead Sciences, Inc.</p>
+      
+      <h4>EARLI: Early  Antiretroviral Therapy in Resource Limited Settings in Patients with High CD4+  Cell Counts</h4>
+      <p>  <i>Study period: </i>November 2011 to March 2015.<i> Brief description: </i>To assesses efficacy  and adherence to ART, and answer implementation science questions of delivering  ART to high CD4 patients using a streamlined model. Preliminary findings  suggest high ART acceptability among patients with high CD4 counts. <i>Collaborators:</i> MU-UCSF Research  Collaboration, Mbarara University  Joint Program (MJAP), Infectious Diseases Research Collaboration (IDRC). <i>Sponsored by:</i> NIH / Gilead Scineces</p>
+      
+      <h4>SEARCH  Community Campaign, Linkage and Household Survey Protocol</h4>
+      <p> <i>Study  period:</i> December 2010  to December 2012. <i>Brief description:</i> The Mbarara Community Campaign Pilot was designed to test and refine the  methodology for a high-throughput community campaign in a rural, east African  setting. <i>Collaborators: </i>MU-UCSF  Research Collaboration.  <i>Sponsored by:</i> NIH/NIAID</p>
+      
+      <h4>ICEMR/PRISM: The International Center of Excellence for Malaria  Research / Program for Resistance, Immunology, Surveillance &amp; Modeling of  Malaria in Uganda</h4>
+       <p> <i>Study period:</i> July 2010 to June 2017. <i>Brief description:</i> Program for  Resistance, Immunology, Surveillance and Modeling of Malaria in Uganda (PRISM)  is the dedicated East Africa International Center of Excellence for Malaria  Research. The International Center of Excellence for Malaria Research (ICEMR)  program, created by NIAID/NIH in July 2010, established a global network of  independent research centers in malaria-endemic settings to provide knowledge,  tools, and evidence-based strategies to support researchers working in a  variety of settings, especially within governments and healthcare institutions.  The overall strategy of the multi-project PRISM program is to apply a  comprehensive and iterative approach to malaria surveillance that will generate  an evidence base to help maximize the impact of control interventions across a  wide range of epidemiological settings<i>.  Collaborators:</i> MU-UCSF Research Collaboration, , Infectious Diseases  Research Collaboration (IDRC), MOH of Uganda, Johns Hopkins University, London  School of Hygiene and Tropical Medicine (LSHTM), Liverpool School of Tropical  Medicine, University of Florida, Durham University. <i>Sponsored by:</i> NIH (NIAID)<br>
+        <b>SURVEILLANCE:</b> <br>
+        <b>Cohorts:</b> The Cohorts study are three  concurrent, dynamic population-based cohorts to estimate the incidence of  malaria and other indicators of malaria morbidity in children living in three  well defined epidemiological settings of varying malaria transmission  intensities. Study participants are recruited from randomly selected households  located in our catchment areas and followed for two years.</p>
+      <p><b>Surveys:</b> The Surveys project conducts cross-sectional surveys in communities and primary  schools twice a year for at least 2 years in the 3 different sites.  The surveys will be timed to correspond to  the high and low malaria transmission seasons, when possible.  In the community surveys, 200 households will  be recruited from a list randomly generated from a census database at each  site.   <br>
+        <b>Entomology:</b> The Entomology studies, propose to  estimate malaria transmission intensity, as measured by EIR, using three  different methodologies including human landing catches (the gold standard),  CDC light traps, and pyrethrum spray catches combined with exit trap  collections.  The study will be conducted  in three different study sites, Tororo, Jinja, and Kanungu, all of which were  included in the original survey conducted in Uganda.</p>
+      <p><b>PARASITE  AND INSECTICIDE RESISTANCE:</b> The Resistance project will utilize available tools to conduct efficient  surveys of the prevalence of known resistance markers across Uganda, develop  new tools to improve surveillance methods, search for new markers to allow us  to track the development of resistance to newer drugs and insecticides and  identify associations between specific interventions and the development of  resistance. </p>
+      <p><b>IMMUNOLOGY: </b>The Immunology  Project, in response to the need for better tools to measure exposure and the  relationship between exposure and disease, the specific aims of the Immunology  Project are: 1) to characterize the individual-level relationships between P.  falciparum exposure, the immune response, and protection from infection and  disease in Ugandan cohorts, 2) to develop and validate immunologic assays for  estimating the population-level dynamics of exposure to P. falciparum in  surveillance studies performed throughout Uganda, and 3) to develop and  validate immunologic assays for estimating the population-level dynamics of  disease in response to changing P. falciparum exposure in surveillance studies  performed throughout Uganda.</p>
+      
+      <h4>Supporting the Implementation of  Malaria Prevention and Control Strategies Relevant Ancillary Activities in the  Republic of Uganda</h4>
+      <p>  <i>Study period:</i> September 2008 to September 2013. <i>Brief description:</i> The purpose of this  project is to support the implementation of strategies to prevent and control  malaria, and relevant ancillary activities in the Republic of Uganda as part of the President&rsquo;s Malaria Initiative  (PMI). <i>Collaborators:</i> Uganda Malaria  Surveillance Program (UMSP), Uganda National Malaria Control Program, Center  for Disease Control (CDC) <i>Sponsored  by:</i> DHHS/CDC.</p>
+      
+      <h4>Pharmacokinetic  Interactions between Antiretroviral Agents, Lopinavir/Ritonavir and Efavirenz  and Antimalarial Drug Combinations, Artesunate/ Amodiaquine and  Artemether/Lumefantrine</h4>
+      <p><i>Study  period</i>: June 2006 –  ongoing. <i>Brief description</i>: This  study includes three (3) components for evaluating potential drug-drug  interactions in healthy HIV sero-negative volunteers. The first component  evaluated the impact of efavirenz on amodiaquine/artesunate but was  discontinued early due to unexpected hepatic toxicity in the first two  subjects.  The second component revealed  that lumefantrine exposure increases 200% in the context of lopinavir/ritonavir  co-administration. However, due to the excellent safety profile for artemether/lumefantrine,  dosage adjustment is not recommended but increased safety monitoring is  warranted.  The third study is nearing  completion and is evaluating the effect of efavirenz on the pharmacokinetics of  artemether/lumefantrine.  It is expected  that efavirenz will lower lumefantrine exposure significantly due to its CYP3A4  induction effects. <i>Collaborators</i>:  MU-UCSF Research Collaboration. <i>Sponsored  by:</i> CFAR, Drug Research Unit, Novartis, Inc.</p>
+      
+      <h4>HIV VCT and Linkage to Care in Uganda</h4>
+      <p><i>Study  Period:</i> September 2007  to August 2012. <i>Brief description:</i> To  compare the efficacy of routine counseling and testing for HIV among  hospitalized adults to traditional counseling and testing in reducing HIV risk  behavior among inpatients after discharge 2) To compare the effectiveness of Enhanced Linkage to Care model of  post-disclosure referral to HIV-specific medical care with Usual Referral in  receipt of opportunistic infection prophylaxis, antiretroviral therapy, and  reducing mortality. <i>Collaborators:</i>  <i>Sponsored  by:</i> NIH (NIMH).</p>
+      
+  <h4>ACT  PRIME: Comparing the impact of enhanced health facility-based care on malaria  and febrile illnesses in children in Tororo, Uganda</h4>
+  <p><i>Study  period:</i> December 2009  to April 2013. The major goals of this study are to compare the impact of  enhanced health facility based care on key population-based indicators,  including the prevalence of anemia in children under five, on key longitudinal  indicators, including treatment incidence density, in a prospectively followed  cohort of children under five and on key indicators of case management for  malaria and other illnesses, including the risk of inappropriate anti-malarial  treatment, in children under five treated at health facilities. <i>Collaborators:</i> Infectious Diseases  Research Collaboration (IDRC), London School of Hygiene and Tropical Medicine  (LSHTM), UCSF. <i>Sponsored by</i>: Bill and  Melinda Gates Foundation. </p>
+  
+      <h4>ACT  PROCESS </h4>
+      <p><i>Study  period:</i> December 2009  to April 2013. <i>Brief description:</i> Involves a comprehensive evaluation framework implemented in parallel with ACT PRIME.  The major goal is to evaluate the process, context and impact of the  intervention implemented in the ACT PRIME study in order to further our  understanding about why the HFI was effective, or not. </p>
+      
+      <h4>START-ART:  Streamlined ART Initiation Strategy </h4>
+      <p><i>Study period:</i> July 2012 to June 2014. <i>Brief description:</i> The project will test  our Streamlined ART Initiation Strategy in a randomized, controlled trial, in  24 clinics in Uganda.The overall  goal of START is to initiate ART among the greatest number of eligible patients  in the shortest amount of time possible while maintaining safety, efficacy and  cost effectiveness. <i>Collaborators:</i> MU-UCSF Research Collaboration.  <i>Sponsored by:</i> National Institute of  Allergy and Infectious Diseases (NIAID). </p>
+       
+       <h4>Malaria  Control Policy Assessment - Uganda</h4>
+       <p><i>Study  period:</i> March 2012 to  Feb 2014. <i>Brief description:</i> Evaluating the impact of malaria control interventions on child mortality in  Uganda. <i>Collaborators:</i> Infectious  Diseases Research Collaboration (IDRC), University of Washington, Institute for  Health Metrics and Evaluation (IHME). <i>Sponsored  by:</i> Bill and Melinda Gates Foundation.</p>
+      
+      <h4>Tuberculosis Acquisition in Early Childhood in Uganda: Influence of HIV  exposure and malnutrition</h4>
+      <p><i>Study  period:</i> February 2013  to February 2014. <i>Brief description:</i> To elucidate the epidemiology of the LTBI reservoir in early childhood and the  influence of HIV-exposure on LTBI and we will test the hypotheses that (1) the  prevalence of LTBI increases with age within the 5 and under age group,  (2) HIV-exposed, un-infected children have a  higher prevalence of LTBI compared to HIV-unexposed children.  In addition to characterizing TB acquisition  in early childhood, we will utilize existing HIV clinical and nutritional data  from established MU-UCSF cohorts to test the hypothesis that HIV-exposed,  un-infected children have an increased risk for LTBI infection relative to  HIV-unexposed children. <i>Collaborators:</i> MU-UCSF Research Collaboration.  <i>Sponsored by:</i> NIAID.</p>
+   
+   <h4>TRAP-TB:  The Transmission and Pathogenesis of TB - Molecular Epidemiology and Geospatial  Analysis of TB Transmission in Tororo Uganda</h4>
+   <p><i>Study  period:</i> June 2011 to  June 2016. <i>Brief description:</i> Characterizing recent TB transmission networks, identifying sites of ongoing TB  transmission, and understanding how HIV influences TB transmission to develop  novel strategic intensified TB case-finding approaches in Africa. <i>Collaborators:</i> MU-UCSF Research  Collaboration.  <i>Sponsored by:</i> NIAID </p>
+      
+      <h4>TET:  Therapeutic Efficacy Trial- Efficacy of artemether-lumefantrine and amodiaquine  + artesunate for treatment of uncomplicated malaria in children in Uganda </h4>
+      <p><i>Study  period:</i> 2013. <i>Brief description:</i> To compare the  efficacy and safety of 2 artemisinin-based combination therapies (ACT),  amodiaquine-artesunate (AQ+AS), and artemether-lumefantrine (AL) for treatment  of uncomplicated malaria in children in Uganda. The study is being conducted at  3 Uganda Malaria Surveillance Project (UMSP), sentinel health centers, Aduku,  Mubende and Kihihi. <i>Collaborators:</i> UMSP, IDRC, MoH, CDC, USAID, PMI, WHO, UCSF. <i>Sponsored by:</i> PMI and WHO.</p>
+      
+      <h4>UTBSP:  Uganda Tuberculosis Surveillance Project </h4>
+      <p><i> Study period:</i> September 2008 – ongoing. <i>Brief description:</i> The project focuses  on improving tuberculosis case detection by identifying barriers to TB  evaluation, developing interventions to address the barriers, and evaluating  the impact of the interventions at six Level IV health centers distributed  throughout the country. To date, improved adherence to international standards  for TB evaluation has increased case detection by 4-fold. Ongoing projects are  focused on evaluating the impact of performance feedback and same-day LED  fluorescence microscopy at rural health centers and strategies to facilitate  implementation of contact investigation at Kampala Capital City Authority  clinics. <i>Collaborators:</i> MU-UCSF  Research Collaboration, Uganda Ministry of Health Management Information  Services (HMIS) and the Uganda National TB and Leprosy Programme (NTLP). <i>Sponsored by:</i> NIH </p>
+      
+      <h4>GAVI:  Global Alliance for Vaccines Initiative - Full country evaluation  </h4>
+      <p><i>Study  period:</i> March 2013 to  2016. <i>Brief description:</i> To  understand and quantify the barriers to, as well as drivers of, immunization  program improvement, including the contribution of the GAVI Alliance.  The scope of the evaluations will include  GAVI&rsquo;s support for new and underused vaccines as well as GAVI&rsquo;s cash based  support to countries. <i>Collaborators: </i>Institute  of Health Metrics and Evaluation (IHME), PATH. <i>Sponsored by:</i> The Global Alliance Vaccines Initiative.</p>
+      
+      <h4>RO1  Immunology: Impact of Chemoprevention on Humoral Antimalarial Immunity </h4>
+      <p><i>Study  period:</i> July 2011 to  July 2014. Brief description: To assess the impact of blood stage P. falciparum  infection and chemoprevention on humoral antimalarial immunity. <i>Collaborators:</i> UCSF, IDRC, UC Irvine. <i>Sponsored by:</i> The Doris Duke Charitable  Foundation </p>
+
+      <h4>R01  Parasitology: Resistance of Malaria Parasites to  Artemisinin-Based Combination Therapies </h4>
+      <p><i>Study  period</i>: July 2009 to  June 2014. <i>Brief description:</i> The  study is three fold. 1. To identify genotypes associated with decreased  responses to ACTs in Africa. 2. To assess molecular mechanisms and  parasitological consequences of increasing resistance to ACTs. 3. To  characterize the specific impacts of parasite polymorphisms on drug sensitivity  and fitness. <i>Collaborators: </i>MU-UCSF  Research Collaboration.  <i>Sponsored by:</i> NIH/NIAID.</p>
+        
+        <h4>The PQ Study</h4>
+        <p><i>Study period:</i> December 2011 – ongoing. <i>Brief description:</i> An evaluation of the  efficacy and safety of single-dose primaquine for the clearance of gametocytes  in children with uncomplicated malaria in Uganda. The goal of the study is to  evaluate the efficacy and safety of lower doses of primaquine than the dose  (0.75mg primaquine base/kg) recommended in the WHO 2010 malaria treatment  guidelines. <i>Collaborators:</i> Infectious  Diseases Research Collaboration (IDRC), London School of Hygiene and Tropical  Medicine (LSHTM) and the Mahidol Oxford Research Unit (MORU). <i>Sponsored by:</i> Wellcome Trust of Great  Britain, Bill and Melinda Gates Foundation.</p>
+     
+      <h4>Acceptability  and feasibility of serial HIV testing during pregnancy and the postpartum  period with male partner testing in Tororo, Uganda</h4>
+      <p><i>Study Period: </i>February 2013 to March 2016. <i>Brief Description:</i> Recognizing that  perinatal transmission of HIV continues to be a critical public health crisis,  the Joint United Nations Program on HIV/AIDS (UNAIDS) declared a country-led  multinational goal to eliminate perinatal HIV infections and to improve  maternal HIV care by 2015. In order to assess the acceptability and feasibility  of serial HIV testing, HIV-negative pregnant women were asked to participate in  repeat HIV tests integrated into routine follow up antenatal and postpartum  child immunization visits. While women reported high interest in involving  their male partners in HIV testing and testing was offered free of charge,  actual uptake of HIV testing among men was very low.  Innovative strategies to successfully  integrate male partner testing within routine antenatal and postpartum health services  as part of a comprehensive HIV prevention program in sub-Saharan Africa needs  to be piloted and studied. <i>Collaborators:</i> MU-UCSF Research Collaboration.  <i>Sponsored by:  </i>The Eunice Kennedy Shriver National  Institute of Child Health and Human Development (NICHD/NIH) </p>
+</div>
+<?php }} ?>

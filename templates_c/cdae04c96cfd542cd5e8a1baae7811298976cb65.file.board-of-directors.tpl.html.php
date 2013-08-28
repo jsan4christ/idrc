@@ -1,0 +1,45 @@
+<?php /* Smarty version Smarty-3.1.14, created on 2013-07-24 08:32:46
+         compiled from ".\templates\display\board-of-directors.tpl.html" */ ?>
+<?php /*%%SmartyHeaderCode:230751ed70460d5db7-65481193%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'cdae04c96cfd542cd5e8a1baae7811298976cb65' => 
+    array (
+      0 => '.\\templates\\display\\board-of-directors.tpl.html',
+      1 => 1374643964,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '230751ed70460d5db7-65481193',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_51ed7046105f40_40943163',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_51ed7046105f40_40943163')) {function content_51ed7046105f40_40943163($_smarty_tpl) {?><div id="content" class="content-box-m">
+
+<h3>Chairman:</h3>
+<p><b>Fred Wabwire-Mangen (MBChB, DTM&H, MPH, PhD)</b> is Acting Director of the Regional Centre for Quality of Health Care (RCQHC) and an Associate Professor of Epidemiology and Public Health at the Makerere University School of Public Health.</p>
+
+<h3><br>Members:</h3>
+<p><b>Ambrose O. Talisuna (M.B.Ch.B, Msc, and PhD)</b> is the Regional Scientific Director, East Africa, Worldwide Antimalarial Resistance Network (WWARN).<br><br>
+  <b>Alex Opio (M.B.Ch.B, Msc, PhD)</b> is currently serving as the Assistant Commissioner Health Services for National Disease Control in the Ugandan Ministry of Health.<br /><br>
+<b>Henry Tumwijukye Esq. LLB</b> is the Director of Administration and Grants at the Makerere University – Johns Hopkins University Research Collaboration (MU-JHU).<br /><br>
+<b>Solomon Thomas Baganja, CAT, BSc., ACCA</b> is an Accounting Consultant and is currently self employed as an accounting and audit consultant. He is the Managing Director of SKYLINE Consults &amp; Associates Ltd.<br /><br>
+<b>Jane Achan, MBChB, M.Med, MSc Clinical Trials</b>, is a Lecturer at the Department of Paediatrics and Child Health at Makerere University College of Health Sciences in Kampala, Uganda.<br /><br>
+<b>Adoke Yeka, (MBChB, MPH)</b> is currently an Assistant Lecturer in the Department of Disease Control and Environmental Health, School of Public Health, College of Health Sciences, Makerere University-Kampala. </p>
+
+<h3><br>Board Ex-Officials</h3>
+<p><b>Moses R. Kamya (M.B.Ch.B, M.Med, MPH, PhD)</b> is currently the Executive Director is currently a professor and Chair of the department of medicine at Makerere University College of Health Sciences</p>
+
+<p><br><b>Catherine Tugaineyo (BA, MBA)</b> is currently Finance and Administrative Director of IDRC 
+IDRC has a General Assembly that meets once a year. The General Assembly is the supreme authority of the Organization. Currently the General Assembly has got XXX members.</p>
+
+<p style="border-bottom: dashed; border-top: dashed; margin: 10px 0 10px 0; padding: 4px 0 4px 0;">
+
+<em>IDRC also has a Senior Management Team (SMT) that meets after every 2 months. The SMT is tasked with overseeing the day to day running of the Collaboration. The SMT comprises of the Heads of projects and Divisions and is chaired by the Executive Director. </em>
+</p>
+</div><?php }} ?>
